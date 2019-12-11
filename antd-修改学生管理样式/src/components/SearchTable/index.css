@@ -1,0 +1,12 @@
+.searchWrapper{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px 20px;
+}
+.searchWrapper div{
+    padding: 10px 20px;
+}
+.searchWrapper button{
+    padding: 10px 40px;
+}

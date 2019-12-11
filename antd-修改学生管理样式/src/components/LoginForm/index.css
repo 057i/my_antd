@@ -1,0 +1,27 @@
+.loginWrapper{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+
+}
+.loginWrapper input{
+    margin-left:10px;
+    /* outline: none; */
+    width: 200px;
+    font-size: 1.3em;
+    border-radius: 5px;
+    border:1px solid #ccc;
+    margin-bottom: 13px;
+}
+
+.loginWrapper button{
+    width: 100%;
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: #008c8c;
+    color:white;
+    height: 28px;
+    border-radius: 5px;
+}

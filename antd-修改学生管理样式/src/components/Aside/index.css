@@ -1,0 +1,12 @@
+.leftWrapper{
+    margin:0;
+    text-align: center;
+    padding: 30px 10px;
+}
+.leftWrapper li {
+    padding: 15px 0;
+    list-style: none;
+    color:#fff;
+    font-size: 1.2em;
+}
+

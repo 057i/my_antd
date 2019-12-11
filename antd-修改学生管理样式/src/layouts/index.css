@@ -1,0 +1,24 @@
+
+.main{
+    position: fixed;
+    top: 64px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+
+}
+/* .aside{
+    width: 200px;
+    height: 100%;
+    background-color: #f40;
+}
+.content{
+    left:200px;
+    top:0;
+    bottom: 0;
+    right: 0;
+    background-color: skyblue;
+    position: absolute;
+    overflow: auto;
+} */
